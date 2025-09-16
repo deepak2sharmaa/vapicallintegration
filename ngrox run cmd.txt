@@ -1,0 +1,5 @@
+ngrok http --url=unramped-icebound-selah.ngrok-free.app 3000
+
+
+
+ngrok config add-authtoken 31DZZHH5BVhHo3YFkVmEkSkG2em_7hbCAZZRHdTxqDHxpg66f
