@@ -1,0 +1,15 @@
+hospital-callcenter/
+├── config/
+│   └── twilio.js
+├── controllers/
+│   └── callController.js
+├── routes/
+│   └── voiceRoutes.js
+├── services/
+│   ├── twilioService.js
+│   └── vapiService.js
+├── utils/
+│   └── helpers.js
+├── .env
+├── package.json
+└── server.js
